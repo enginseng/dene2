@@ -18,3 +18,5 @@ st.line_chart(tickerDf.Volume)
 # son değişiklik
 # değişiklik 2
 # değişiklik 3
+# değişiklik 4
+
